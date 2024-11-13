@@ -1,0 +1,11 @@
+Mobile_Brand,Battery_Capacity_mAh,Release_Year,Gaming,App_Usage,Battery_Life_Hours,Max_Battery_Health_Years
+Samsung,5000,2023,Yes,High,8,3.0
+Apple,4323,2022,No,Low,15,4.0
+Xiaomi,6000,2021,Yes,High,6,2.5
+OnePlus,4500,2023,No,Medium,12,3.0
+Google,4080,2020,Yes,Low,9,3.0
+Oppo,5000,2021,No,High,11,3.0
+Vivo,4000,2019,Yes,Medium,7,2.5
+Huawei,4200,2019,No,Low,10,3.0
+Motorola,5000,2022,Yes,High,8,3.0
+Realme,4500,2023,No,Medium,13,3.5
